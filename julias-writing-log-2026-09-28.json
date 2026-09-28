@@ -1,0 +1,891 @@
+{
+  "format": "pink-pages-writing-log",
+  "version": 1,
+  "exportedAt": "2026-09-28T11:48:15.521Z",
+  "data": {
+    "days": {
+      "2026-09-28": {
+        "words": 0,
+        "seconds": 1220,
+        "notes": "",
+        "met": true,
+        "runningSince": null,
+        "goal": 0
+      },
+      "2025-12-30": {
+        "words": 1500,
+        "progress": 1500,
+        "met": false,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2025-12-31": {
+        "words": 1800,
+        "progress": 3300,
+        "met": false,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-01": {
+        "words": 3000,
+        "progress": 6351,
+        "met": false,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-02": {
+        "words": 1700,
+        "progress": 8000,
+        "met": false,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-03": {
+        "words": 2000,
+        "progress": 10000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-05": {
+        "words": 1500,
+        "progress": 11500,
+        "met": false,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-07": {
+        "words": 1500,
+        "progress": 13000,
+        "met": false,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-09": {
+        "words": 2000,
+        "progress": 15000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-12": {
+        "words": 1500,
+        "progress": 16500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-14": {
+        "words": 2000,
+        "progress": 18500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-16": {
+        "words": 500,
+        "progress": 19000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-19": {
+        "words": 1000,
+        "progress": 20000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-21": {
+        "words": 1000,
+        "progress": 21000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-23": {
+        "words": 3000,
+        "progress": 24000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-24": {
+        "words": 1500,
+        "progress": 25000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-26": {
+        "words": 1000,
+        "progress": 26000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-27": {
+        "words": 1000,
+        "progress": 27000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-28": {
+        "words": 1000,
+        "progress": 28000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-30": {
+        "words": 1000,
+        "progress": 29000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-01-31": {
+        "words": 1000,
+        "progress": 30000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-02": {
+        "words": 0,
+        "progress": null,
+        "met": false,
+        "notes": "Philippines",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-03": {
+        "words": 0,
+        "progress": null,
+        "met": false,
+        "notes": "Philippines",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-04": {
+        "words": 0,
+        "progress": null,
+        "met": false,
+        "notes": "Philippines",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-05": {
+        "words": 0,
+        "progress": null,
+        "met": false,
+        "notes": "Philippines",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-06": {
+        "words": 0,
+        "progress": null,
+        "met": false,
+        "notes": "Philippines",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-07": {
+        "words": 0,
+        "progress": null,
+        "met": false,
+        "notes": "Philippines",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-09": {
+        "words": 1500,
+        "progress": 31500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-11": {
+        "words": 1500,
+        "progress": 33000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-13": {
+        "words": 1000,
+        "progress": 34000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-14": {
+        "words": 1000,
+        "progress": 35000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-19": {
+        "words": 1000,
+        "progress": 36000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-20": {
+        "words": 2500,
+        "progress": 38500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-21": {
+        "words": 1000,
+        "progress": 39500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-23": {
+        "words": 1500,
+        "progress": 41000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-25": {
+        "words": 1000,
+        "progress": 42000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-02-27": {
+        "words": 1500,
+        "progress": 43500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-04": {
+        "words": 2000,
+        "progress": 45500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-06": {
+        "words": 1500,
+        "progress": 47000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-09": {
+        "words": 1500,
+        "progress": 48500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-13": {
+        "words": 1000,
+        "progress": null,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-14": {
+        "words": 500,
+        "progress": 50000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-16": {
+        "words": 1500,
+        "progress": 51000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-17": {
+        "words": 500,
+        "progress": 51500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-18": {
+        "words": 1500,
+        "progress": 53000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-19": {
+        "words": 500,
+        "progress": 53500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-20": {
+        "words": 1500,
+        "progress": 55000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-23": {
+        "words": 1000,
+        "progress": 56000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-27": {
+        "words": 1500,
+        "progress": 58000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-03-28": {
+        "words": 2000,
+        "progress": 60000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-04-04": {
+        "words": 10000,
+        "progress": 60000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-04-06": {
+        "words": 0,
+        "progress": 61500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-04-08": {
+        "words": 0,
+        "progress": 63000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-04-10": {
+        "words": 0,
+        "progress": 64000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-04-13": {
+        "words": 1000,
+        "progress": 65500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-04-17": {
+        "words": 1500,
+        "progress": 67000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-04-20": {
+        "words": 3000,
+        "progress": 70000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-04-24": {
+        "words": 0,
+        "progress": null,
+        "met": true,
+        "notes": "Leo and Josie",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-04-25": {
+        "words": 0,
+        "progress": null,
+        "met": true,
+        "notes": "Leo and Josie",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-02": {
+        "words": 1000,
+        "progress": 63000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-04": {
+        "words": 1000,
+        "progress": 64000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-05": {
+        "words": 2000,
+        "progress": 66000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-06": {
+        "words": 1000,
+        "progress": 67000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-07": {
+        "words": 1000,
+        "progress": 68000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-08": {
+        "words": 1000,
+        "progress": 69000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-09": {
+        "words": 1000,
+        "progress": 70000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-13": {
+        "words": 0,
+        "progress": 72000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-15": {
+        "words": 0,
+        "progress": 73500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-18": {
+        "words": 1000,
+        "progress": 75000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-19": {
+        "words": 1000,
+        "progress": 76000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-20": {
+        "words": 1500,
+        "progress": 77500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-22": {
+        "words": 1000,
+        "progress": 78500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-23": {
+        "words": 1000,
+        "progress": 79500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-25": {
+        "words": 1000,
+        "progress": 81500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-27": {
+        "words": 1000,
+        "progress": 82500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-29": {
+        "words": 1500,
+        "progress": 84000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-05-30": {
+        "words": 1000,
+        "progress": 85000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-06-01": {
+        "words": 0,
+        "progress": null,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-06-02": {
+        "words": 0,
+        "progress": null,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-06-03": {
+        "words": 1500,
+        "progress": 86500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-06-05": {
+        "words": 1000,
+        "progress": 87000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-06-06": {
+        "words": 1000,
+        "progress": 88000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-06-08": {
+        "words": 1000,
+        "progress": 89000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-06-10": {
+        "words": 1000,
+        "progress": 90000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-06-19": {
+        "words": 1000,
+        "progress": 91000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-06-30": {
+        "words": 1500,
+        "progress": 93000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-03": {
+        "words": 2000,
+        "progress": 95000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-06": {
+        "words": 1000,
+        "progress": 96000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-08": {
+        "words": 1500,
+        "progress": 97500,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-10": {
+        "words": 1000,
+        "progress": 99000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-11": {
+        "words": 2000,
+        "progress": 100000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-14": {
+        "words": 1000,
+        "progress": 101000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-16": {
+        "words": 1500,
+        "progress": 102000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-22": {
+        "words": 1000,
+        "progress": 103000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-24": {
+        "words": 1000,
+        "progress": 104000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-25": {
+        "words": 1000,
+        "progress": 105000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-07-30": {
+        "words": 1300,
+        "progress": 106000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-08-01": {
+        "words": 1000,
+        "progress": 107000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-08-03": {
+        "words": 1000,
+        "progress": 108000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-08-05": {
+        "words": 1000,
+        "progress": 109000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-08-07": {
+        "words": 1000,
+        "progress": 110000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-09-03": {
+        "words": 1700,
+        "progress": 117000,
+        "met": true,
+        "notes": "",
+        "seconds": 0,
+        "runningSince": null
+      },
+      "2026-09-27": {
+        "words": 0,
+        "seconds": 0,
+        "notes": "",
+        "met": false,
+        "runningSince": null
+      },
+      "2026-09-26": {
+        "words": 0,
+        "seconds": 0,
+        "notes": "",
+        "met": false,
+        "runningSince": null
+      },
+      "2026-09-25": {
+        "words": 0,
+        "seconds": 0,
+        "notes": "",
+        "met": false,
+        "runningSince": null
+      }
+    },
+    "bookGoal": 100000,
+    "bookTotal": 117000,
+    "importVersion": 1,
+    "edits": {
+      "2026-09-28": {
+        "seconds": 0,
+        "chapter": "Chapter 2",
+        "notes": "- clarified that the frog shell was meant to be a final parting gift to Noemi\n",
+        "met": true,
+        "runningSince": null
+      },
+      "2026-09-27": {
+        "seconds": 0,
+        "chapter": "",
+        "notes": "",
+        "met": false,
+        "runningSince": null
+      },
+      "2026-09-26": {
+        "seconds": 0,
+        "chapter": "",
+        "notes": "",
+        "met": false,
+        "runningSince": null
+      },
+      "2026-09-25": {
+        "seconds": 0,
+        "chapter": "",
+        "notes": "",
+        "met": false,
+        "runningSince": null
+      }
+    },
+    "copy": {
+      "storyEyebrow": "✧ A RECORD OF HOW THIS STORY CAME TO LIFE ✧",
+      "footer": "✧ made of many words ✧",
+      "storyTitle": "Novel Number 2 - Eulalia and Jory",
+      "weekSubtitle": "☁ stay disciplined ☁"
+    },
+    "lastModePromptDate": "2026-09-28",
+    "lastMode": "writing",
+    "copyJa": {
+      "storyTitle": "ユラリアとジョーリ"
+    },
+    "language": "en"
+  }
+}
